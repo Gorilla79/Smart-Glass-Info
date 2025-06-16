@@ -3,16 +3,16 @@
 --------------------------------------------------------------------------------
 ## Smart Glass Module 정리
 1. 전체 구성도 </br>
-Smart Glass 모듈은 다음 핵심 구성 요소들로 이루어져 있습니다:
-• Raspberry Pi zero 2W
-• ReSpeaker 2-Mics Pi HAT
-• Bone Conductor Transducer (골전도 트랜스듀서)
-• Camera (카메라)
-• Laser neopixel led (레이저 네오픽셀 LED)
-• Battery (배터리)
+Smart Glass 모듈은 다음 핵심 구성 요소들로 이루어져 있습니다:</br>
+• Raspberry Pi zero 2W</br>
+• ReSpeaker 2-Mics Pi HAT</br>
+• Bone Conductor Transducer (골전도 트랜스듀서)</br>
+• Camera (카메라)</br>
+• Laser neopixel led (레이저 네오픽셀 LED)</br>
+• Battery (배터리)</br>
 
 --------------------------------------------------------------------------------
-2. 모듈별 상세 정보
+2. 모듈별 상세 정보</br>
 2.1. 카메라
 • 모델명: IMX219-77 (라즈베리파이 카메라)
 • 카메라 모듈 파일명: 카메라 모듈.step (obj, f3d 파일 사용 가능)
