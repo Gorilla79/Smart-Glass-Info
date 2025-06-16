@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 ## Smart Glass Module 정리
-1. 전체 구성도 <\br>
+1. 전체 구성도 </br>
 Smart Glass 모듈은 다음 핵심 구성 요소들로 이루어져 있습니다:
 • Raspberry Pi zero 2W
 • ReSpeaker 2-Mics Pi HAT
